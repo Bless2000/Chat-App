@@ -21,5 +21,5 @@
    * Add user authentication.
    * Support for multiple chat rooms.
 
-   * ![Alt text for your image](assets/screenshot.png)
+   * ![Alt screenshot of app](assets/screenshot.png)
 
